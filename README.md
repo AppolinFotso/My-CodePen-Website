@@ -1,6 +1,6 @@
 # Personal Home Page  Template
 I created a personal homepage as part of my introduction to digital with  
-Code Your Future. This repository content some basic:  
+**Code Your Future**. This repository contains the following files:  
 * HTML
 * CSS
 * JavaScript
