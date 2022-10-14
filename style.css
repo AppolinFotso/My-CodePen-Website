@@ -102,12 +102,12 @@ body {
 }*/
 
 /* don't edit this */
-.jest-lite-report__status--pass {
+/*.jest-lite-report__status--pass {
   background: var(--color-pass);
 }
 .jest-lite-report__errors {
   display: none;
-}
+}*/
 
 /* added code */
 #bottom,
