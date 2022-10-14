@@ -5,6 +5,11 @@
 html {
   max-width: 100%;
 }
+
+body {
+  overflow: hidden;
+}
+
 #header {
   background-color: skyblue;
   margin-top: -20px;
@@ -102,8 +107,7 @@ iframe {
    ===================
 */
 /*
-body {
-}*/
+
 
 /* don't edit this */
 /*.jest-lite-report__status--pass {
