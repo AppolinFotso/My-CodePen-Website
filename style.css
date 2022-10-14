@@ -3,7 +3,7 @@
 }
 
 header {
-  background-color: cyan;
+  background-color: skyblue;
   margin-top: -20px;
 }
 
@@ -97,8 +97,9 @@ iframe {
   You must write some CSS to complete this challenge.
    ===================
 */
+/*
 body {
-}
+}*/
 
 /* don't edit this */
 .jest-lite-report__status--pass {
